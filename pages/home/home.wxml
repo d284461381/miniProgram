@@ -1,0 +1,3 @@
+<!--home.wxml-->
+<text class="title">home.wxml</text>
+<button size="mini">测试</button>

@@ -1,0 +1,4 @@
+/* home.wxss */
+.title {
+  color: #FF8788
+}
