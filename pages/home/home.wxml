@@ -1,3 +1,5 @@
 <!--home.wxml-->
 <text class="title">home.wxml</text>
 <button size="mini">测试</button>
+
+<view>1.初识微信小程序</view>
