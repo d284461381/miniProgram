@@ -1,3 +1,6 @@
 <!--home.wxml-->
-<text class="title">home.wxml</text>
-<button size="mini">测试</button>
+<!-- 1.小程序的数据绑定 -->
+<view>Hello {{name}}</view>
+<view>age: {{age}}</view>
+<button size="mini" bindtap="handleBtnClick">+</button>
+<button size="mini" bindtap="handleBtnSubtraction">-</button>

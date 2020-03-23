@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "navigationBarTitleText": "宠物食品",
+  "enablePullDownRefresh": true
 }
