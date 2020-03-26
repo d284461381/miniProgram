@@ -1,0 +1,19 @@
+<!--pages/text/text.wxml-->
+<text>Hello selectable\n</text>
+
+
+<!-- selectable="{{true}}" 默认text组件不会长按选中 把 selectable 为 true 时 才会长按选中-->
+<text selectable="{{true}}">Hello selectable\n</text>
+<text selectable>Hello selectable\n</text>
+
+<!-- space 控制文本之间 空格大小 默认为 nbsp-->
+<!-- ensp 半个中文字符大小 -->
+<!-- emsp 一个中文字符大小 -->
+<text space="">Hello space\n</text>
+<text space="nbsp">Hello space\n</text>
+<text space="ensp">Hello space\n</text>
+<text space="emsp">Hello space\n</text>
+
+<!-- decode 是否解码文本 -->
+<text>Hello &gt; decode\n</text>
+<text decode>Hello &gt; decode</text>

@@ -1,0 +1,6 @@
+/* pages/button/button.wxss */
+.active {
+  background-color: #3498db;
+  font-weight: bolder;
+  color: #ecf0f1;
+}

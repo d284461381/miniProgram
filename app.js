@@ -17,8 +17,10 @@ App({
   onShow: function (options) {
 
 
-    if (options.scene === 1037) {
-      console.log(options.scene)
+    switch (options.scene) {
+      case 1001:
+        
+        break;
     }
   },
 

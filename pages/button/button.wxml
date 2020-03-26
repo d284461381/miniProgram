@@ -1,0 +1,22 @@
+<!--pages/button/button.wxml-->
+<button>普通按钮</button>
+
+<!-- size 控制按钮大小-->
+<button size="mini">mini按钮</button>
+
+<!-- type 控制按钮类型 -->
+<button size="mini" type="primary">primary按钮</button>
+<button size="mini">默认按钮</button>
+<button size="mini" type="warn">warn按钮</button>
+
+<!-- plain 控制按钮是否镂空 -->
+<button plain>镂空按钮</button>
+
+<!-- disabled 禁止按钮-->
+<button disabled>disabled按钮</button>
+
+<!-- loading 加载按钮-->
+<button loading>loading按钮</button>
+
+<!-- hover-class 设置按钮点击时样式-->
+<button hover-class="active" size="mini">hover-class按钮</button>

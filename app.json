@@ -1,5 +1,8 @@
 {
   "pages": [
+    "pages/text/text",
+    "pages/button/button",
+    "pages/view/view",
     "pages/home/home",
     "pages/about/about"
   ],
@@ -12,18 +15,21 @@
     "enablePullDownRefresh": false
   },
   "tabBar": {
-    "list": [{
-      "pagePath": "pages/home/home",
-      "text": "首页",
-      "iconPath": "assets/img/宠物.png",
-      "selectedIconPath": "assets/img/宠物_点击.png"
-    },
-    {
-      "pagePath": "pages/about/about",
-      "text": "食品",
-      "iconPath": "assets/img/宠物食物.png",
-      "selectedIconPath": "assets/img/宠物食物_点击.png"
-    }],
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "assets/img/宠物.png",
+        "selectedIconPath": "assets/img/宠物_点击.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "食品",
+        "iconPath": "assets/img/宠物食物.png",
+        "selectedIconPath": "assets/img/宠物食物_点击.png"
+      }
+    ],
     "selectedColor": "#F4A460"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

@@ -1,23 +1,11 @@
- Page({
+// pages/view/view.js
+Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    name: 'QWF',
-    age: 23
-  },
 
-  handleBtnClick() {
-    this.setData({
-      age: this.data.age + 1
-    })
-  },
-
-  handleBtnSubtraction() {
-    this.setData({
-      age: this.data.age - 1
-    })
   },
 
   /**
