@@ -1,0 +1,28 @@
+/* pages/scrollView/scrollView.wxss */
+
+
+.container1 {
+  background-color: purple;
+  white-space: nowrap;
+  display: flex;
+}
+
+  .container1 .item1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 10px;
+    flex: 1;
+    display: inline-block;
+  }
+ 
+  .container2 {
+  background-color: purple;
+  height: 200px;
+}
+
+  .container2 .item2 {
+    height: 100px;
+    background: red;
+    margin: 10px;
+  }

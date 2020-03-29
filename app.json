@@ -2,7 +2,10 @@
   "pages": [
     "pages/text/text",
     "pages/button/button",
+    "pages/image/image",
     "pages/view/view",
+    "pages/input/input",
+    "pages/scrollView/scrollView",
     "pages/home/home",
     "pages/about/about"
   ],

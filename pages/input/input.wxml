@@ -1,0 +1,23 @@
+<input value='基础input'></input>
+
+<input type="number" value='数字键盘'></input>
+
+<input type="idcard" value='身份证键盘'></input>
+
+<input type="digit" value='带小数点键盘'></input>
+
+<input confirm-type="send" value='右下角为"发送"'></input>
+
+<input confirm-type="search" value='右下角为"搜索"'></input>
+
+<input confirm-type="next" value='右下角为"下一个"'></input>
+
+<input confirm-type="done" value='右下角为"完成"'></input>
+
+<input confirm-type="go" value='右下角为"前往"'></input>
+
+<input focus value='进入该页面时 自动选中该input'></input>
+
+<input placeholder="占位"></input>
+
+<input placeholder="有样式的占位" placeholder-style="color: #3498db"></input>

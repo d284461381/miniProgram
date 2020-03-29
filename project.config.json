@@ -50,8 +50,8 @@
 			"list": [
 				{
 					"id": 0,
-					"name": "pages/view/view",
-					"pathName": "pages/view/view",
+					"name": "pages/scrollView/scrollView",
+					"pathName": "pages/scrollView/scrollView",
 					"query": "",
 					"scene": null
 				}

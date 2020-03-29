@@ -1,0 +1,4 @@
+<image src='../../assets/img/宠物.png' show-menu-by-longpress></image>
+
+<button bindtap="chooseAlbum">选择相册中的照片</button>
+<image src="{{imgSrc}}"></image>
